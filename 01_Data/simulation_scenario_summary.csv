@@ -1,0 +1,4 @@
+Initial_Delay,Train_Count,Mean_Final_Initial_Component,Mean_Final_New_Disruption_Component,Mean_Final_Propagated_Delay,Minimum_Final_Delay,Median_Final_Delay,Maximum_Final_Delay
+30,23,0.34,10.13,10.47,0.39,7.72,47.47
+60,23,0.68,10.13,10.81,0.4,8.42,47.59
+120,23,1.36,10.13,11.49,0.41,9.77,47.81
